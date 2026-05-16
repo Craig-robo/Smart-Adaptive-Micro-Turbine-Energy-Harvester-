@@ -56,12 +56,7 @@ Experimental testing was conducted under low, moderate, high, and very high airf
 This repository includes:
 
 * Embedded control source code
-* Circuit schematics
-* Experimental datasets
 * Hardware implementation details
-* System architecture diagrams
-* Research documentation
-* Figures and supporting materials
 
 ## Applications
 
@@ -78,8 +73,7 @@ Potential applications include:
 
 Source code available from this repository.
 
-Archived software DOI:
-(To be added after Zenodo archival)
+Archived software DOI: https://doi.org/10.5281/zenodo.20225583
 
 ## License
 
